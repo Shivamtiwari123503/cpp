@@ -140,7 +140,7 @@ for(j=0;j<c;j++)
 cin>>fm[i][j];
 }
 }
-By Rhucha FYCS - OOPS PRAC 4
+
 cout<<"Second Matrix"<<endl;
 for(i=0;i<r;i++)
 {
